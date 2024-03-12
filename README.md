@@ -1,1 +1,1 @@
-# Skin_disease_detection1
+# Lung_Abnormality
