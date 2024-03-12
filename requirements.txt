@@ -14,3 +14,4 @@ h5py
 google-cloud-bigquery
 db-dtypes
 google-cloud-storage
+opencv-python
